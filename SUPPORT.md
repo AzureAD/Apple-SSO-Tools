@@ -1,24 +1,32 @@
-# TODO: The maintainer of this repo has not yet edited this file
+# How to file issues and get help  
 
-**REPO OWNER**: Do you want Customer Service & Support (CSS) support for this product/project?
-
-- **No CSS support:** Fill out this template with information about how to file issues and get help.
-- **Yes CSS support:** Fill out an intake form at [aka.ms/onboardsupport](https://aka.ms/onboardsupport). CSS will work with/help you to determine next steps.
-- **Not sure?** Fill out an intake as though the answer were "Yes". CSS will help you decide.
-
-*Then remove this first heading from this SUPPORT.MD file before publishing your repo.*
-
-# Support
-
-## How to file issues and get help  
-
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing 
-issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
+This project uses GitHub Issues to track bugs and feature requests. Please search the existing
+issues before filing new issues to avoid duplicates.  For new issues, file your bug or
 feature request as a new Issue.
 
-For help and questions about using this project, please **REPO MAINTAINER: INSERT INSTRUCTIONS HERE 
-FOR HOW TO ENGAGE REPO OWNERS OR COMMUNITY FOR HELP. COULD BE A STACK OVERFLOW TAG OR OTHER
-CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
+For help and questions about using this project, please raise Issues.
+
+## Filing Issues
+
+Please file a new issue with the appropriate label for the type if item on the [issues](https://github.com/AzureAD/MSIdentityTools/issues) page
+
+## Bugs or Functional Issues
+
+For bugs please create an issue with the appropriate label on the repo  page
+
+- **bug** - Issues with the functionality of the cmdlet or script in the module where something isn't working as expected
+
+## Documentation Enhancements
+
+- **documentation** - Issues or suggestions on the documenation for the module
+
+## Feature Requests
+
+- **enhacement** - Idea for improvement or enhancement of the module
+
+## Issue Lifecycle
+
+Issues will be triaged as appropriate.
 
 ## Microsoft Support Policy  
 

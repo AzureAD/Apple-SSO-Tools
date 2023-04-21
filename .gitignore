@@ -213,6 +213,9 @@ _pkginfo.txt
 *.appxbundle
 *.appxupload
 
+# MacOS Finder
+**/.DS_Store
+
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
