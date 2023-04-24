@@ -1,6 +1,6 @@
 # Apple SSO Tools
 
-The Apple SSO Tools repo is a collection of scripts for troubleshooting common issues with features such as the [Microsoft Enteprise SSO Extension Plugin](https://learn.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-ios-ipados-macos?pivots=all). 
+The Apple SSO Tools repo is a collection of scripts for troubleshooting common issues with features such as the [Microsoft Enterprise SSO Extension Plugin](https://learn.microsoft.com/en-us/mem/intune/configuration/use-enterprise-sso-plug-in-ios-ipados-macos?pivots=all). 
 
 For additional troubleshooting guidance please read the [Troubleshooting the Microsoft Enterprise SSO Extension plugin on Apple Devices](https://learn.microsoft.com/en-us/azure/active-directory/devices/troubleshoot-mac-sso-extension-plugin)
 
