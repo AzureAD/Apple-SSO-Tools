@@ -35,7 +35,7 @@
 
 .EXAMPLE OUTPUT
     
-    Welcome to the macOS Enterprise SSO Troubleshooting Ulility
+    Welcome to the macOS Enterprise SSO Troubleshooting Utility
 
 
 
@@ -50,7 +50,7 @@ COMMENT
 
 while true; do
     echo
-    echo "Welcome to the macOS Enterprise SSO Troubleshooting Ulility"
+    echo "Welcome to the macOS Enterprise SSO Troubleshooting Utility"
     echo
     echo
     echo 
